@@ -43,7 +43,7 @@
 </div>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thesalikkhan&" alt="thesalikkhan" /> </div>
 <div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=yd33m2zj4heuncmdm0qzt8xko&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=yd33m2zj4heuncmdm0qzt8xko&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
 </div>
 <div align="center">
 <img src="https://raw.githubusercontent.com/thesalikkhan/thesalikkhan/output/github-contribution-grid-snake.svg" />
