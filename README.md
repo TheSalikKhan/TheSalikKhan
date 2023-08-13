@@ -3,11 +3,11 @@
 </p>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on [AnonAsk - Q&A app that lets people ask each other questions anonymously with features like photo galleries, likes, friends and fully customizable profiles.](https://anonask.xyz)
+- 🔭 I’m currently working on [SiteBlock - Chrome Extension](https://salikkhan.com/SiteBlock)
 
 - 🌱 I’m currently learning **Golang,Rust and C#.**
 
-- 👯 I’m looking to collaborate on [Guess10 - Kind of a guessing game](https://guess10.xyz)
+- 👯 I’m looking to collaborate on [WeatherBee](https://weatherbee.salikkhan.com)
 
 - 👨‍💻 All of my projects are available at [https://salikkhan.com](https://salikkhan.com)
 
