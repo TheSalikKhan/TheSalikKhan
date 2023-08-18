@@ -3,7 +3,7 @@
 </p>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on [SiteBlock - Chrome Extension](https://salikkhan.com/SiteBlock)
+- 🔭 I’m currently working on [SiteBlock - Chrome Extension](https://chrome.google.com/webstore/detail/siteblock/ghjkimampnaopgkijfpdmjljnolonadk/)
 
 - 🌱 I’m currently learning **Golang,Rust and C#.**
 
