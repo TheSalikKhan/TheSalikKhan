@@ -22,10 +22,10 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to set up a CDN using Cloudflare R2 and Workers.](https://blog.salikkhan.com/how-to-set-up-a-cdn-using-cloudflare-r2-and-workers/)
 - [TryHackMe - Basic Pentesting. &lpar;Walkthrough&rpar;](https://blog.salikkhan.com/tryhackme-basic-pentesting-walkthrough/)
 - [Walkthrough - HackTheBox Starting Point: Vaccine.](https://blog.salikkhan.com/writeup-hackthebox-starting-point-vaccine/)
 - [Running a php app on nginx with php-fpm.](https://blog.salikkhan.com/running-a-php-app-on-nginx/)
-- [Setting up a web server from scratch on Linux.](https://blog.salikkhan.com/setting-up-a-web-server-with-nginx/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
