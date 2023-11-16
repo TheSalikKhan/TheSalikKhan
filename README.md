@@ -2,21 +2,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=salikkhan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=A%20passionate%20full%20stack%20developer&descAlignY=51&descAlign=62"/>
 </p>
 
-- 🔭 I’m currently working on [SiteBlock - Chrome Extension](https://chrome.google.com/webstore/detail/siteblock/ghjkimampnaopgkijfpdmjljnolonadk/)
+- I’m currently working on AnonAsk - A full-stack social media app that allows people to ask each other questions anonymously, features include friends, likes, timelines etc.
 
-- 🌱 I’m currently learning **Golang,Rust and C#.**
+- I’m currently learning **Zig, Rust & Flutter**.
 
-- 👯 I’m looking to collaborate on [WeatherBee](https://weatherbee.salikkhan.com)
+- I’m looking to collaborate on [WeatherBee](https://weatherbee.salikkhan.com)
 
-- 👨‍💻 All of my projects are available at [https://salikkhan.com](https://salikkhan.com)
+- All of my projects are available at [https://salikkhan.com](https://salikkhan.com)
 
-- 📝 I regularly write articles on [https://blog.salikkhan.com](https://blog.salikkhan.com)
+- I regularly write articles on [https://blog.salikkhan.com](https://blog.salikkhan.com)
 
-- 💬 Ask me about **Node, React, Vue, Python, Linux Sysadmin.**
+- Ask me about **Linux System Administration, JavaScript, TypeScript, Python, C++, General Programming**.
 
-- 📫 How to reach me **contact@salikkhan.com**
+- How to reach me **contact@salikkhan.com**
 
-- 📄 Know about my experiences [https://salikkhan.com](https://salikkhan.com)
 
 ### Blog posts
 
@@ -29,7 +28,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/salik.k_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_salikkhan" height="30" width="40" /></a>
 <a href="https://salikkhan.com/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hTgd2X6j" height="30" width="40" /></a>
 <a href="https://blog.salikkhan.com/rss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.salikkhan.com/rss/" height="30" width="40" /></a>
 </p>
@@ -39,7 +37,7 @@
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesalikkhan&show_icons=true&locale=en&layout=compact" alt="thesalikkhan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesalikkhan&show_icons=true&locale=en" alt="thesalikkhan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesalikkhan&show_icons=true&locale=en&theme=transparent" alt="thesalikkhan" /></p>
 </div>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thesalikkhan&" alt="thesalikkhan" /> </div>
 <div align="center">
