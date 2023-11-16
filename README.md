@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=salikkhan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=A%20passionate%20full%20stack%20developer&descAlignY=51&descAlign=62"/>
 </p>
-<h3 align="center">A passionate full-stack developer</h3>
 
 - 🔭 I’m currently working on [SiteBlock - Chrome Extension](https://chrome.google.com/webstore/detail/siteblock/ghjkimampnaopgkijfpdmjljnolonadk/)
 
