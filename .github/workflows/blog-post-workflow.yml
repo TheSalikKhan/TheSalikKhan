@@ -15,5 +15,5 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://blog.salikkhan.com/rss/"
+                feed_list: ${{ secrets.BLOG_TOKEN }}
                 gh_token: ${{ secrets.ACTION_TOKEN }}
