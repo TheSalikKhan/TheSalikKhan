@@ -39,8 +39,8 @@ const salik = {
 
 ## 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to set up a CDN using Cloudflare R2 and Workers](https://salikkhan.com/blog/how-to-set-up-a-cdn-using-cloudflare-r2-and-workers/)
-- [TryHackMe - Basic Pentesting (Walkthrough)](https://salikkhan.com/blog/tryhackme-basic-pentesting-walkthrough/)
+- [How to set up a CDN using Cloudflare R2 and Workers.](https://blog.salikkhan.com/how-to-set-up-a-cdn-using-cloudflare-r2-and-workers/)
+- [TryHackMe - Basic Pentesting &lpar;Walkthrough&rpar;.](https://blog.salikkhan.com/tryhackme-basic-pentesting-walkthrough/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
