@@ -6,7 +6,7 @@
 [![Blog](https://img.shields.io/badge/Blog-salikkhan.com%2Fblog-orange?style=for-the-badge&logo=rss)](https://salikkhan.com/blog)
 [![Email](https://img.shields.io/badge/Email-contact@salikkhan.com-red?style=for-the-badge&logo=gmail)](mailto:contact@salikkhan.com)
 
-Full Stack Developer | Linux Enthusiast | Open Source Contributor
+Computer Science & Engineering Undergrad | Linux Enthusiast 
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
