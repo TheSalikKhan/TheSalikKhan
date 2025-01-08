@@ -3,7 +3,7 @@
 # Hello World! I'm Salik 👋
 
 [![Website](https://img.shields.io/badge/Website-salikkhan.com-blue?style=for-the-badge&logo=google-chrome)](https://salikkhan.com)
-[![Blog](https://img.shields.io/badge/Blog-blog.salikkhan.com-orange?style=for-the-badge&logo=rss)](https://blog.salikkhan.com)
+[![Blog](https://img.shields.io/badge/Blog-blog.salikkhan.com-orange?style=for-the-badge&logo=rss)](https://salikkhan.com/blog)
 [![Email](https://img.shields.io/badge/Email-contact@salikkhan.com-red?style=for-the-badge&logo=gmail)](mailto:contact@salikkhan.com)
 
 Full Stack Developer | Linux Enthusiast | Open Source Contributor
@@ -14,7 +14,7 @@ Full Stack Developer | Linux Enthusiast | Open Source Contributor
 ## 🚀 Current Endeavors
 - 🔭 Building **AnonAsk** - A full-stack social media platform for anonymous Q&A
 - 🌱 Expanding my skills in **Zig**, **Rust** & **Flutter**
-- ✍️ Writing technical articles at [blog.salikkhan.com](https://blog.salikkhan.com)
+- ✍️ Writing technical articles at [salikkhan.com/blog](https://salikkhan.com/blog)
 
 ## 🎯 Expertise
 ```javascript
@@ -39,8 +39,8 @@ const salik = {
 
 ## 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to set up a CDN using Cloudflare R2 and Workers](https://blog.salikkhan.com/how-to-set-up-a-cdn-using-cloudflare-r2-and-workers/)
-- [TryHackMe - Basic Pentesting (Walkthrough)](https://blog.salikkhan.com/tryhackme-basic-pentesting-walkthrough/)
+- [How to set up a CDN using Cloudflare R2 and Workers](https://salikkhan.com/blog/how-to-set-up-a-cdn-using-cloudflare-r2-and-workers/)
+- [TryHackMe - Basic Pentesting (Walkthrough)](https://salikkhan.com/blog/tryhackme-basic-pentesting-walkthrough/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
