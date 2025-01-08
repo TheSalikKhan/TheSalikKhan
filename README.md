@@ -1,3 +1,6 @@
+Here's your enhanced version with modified tech stack and added visual elements:
+
+
 <div align="center">
   
 # Hello World! I'm Salik 👋
@@ -7,16 +10,20 @@
 [![Email](https://img.shields.io/badge/Email-contact@salikkhan.com-red?style=for-the-badge&logo=gmail)](mailto:contact@salikkhan.com)
 
 Full Stack Developer | Linux Enthusiast | Open Source Contributor
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## 🚀 Current Endeavors
-
 - 🔭 Building **AnonAsk** - A full-stack social media platform for anonymous Q&A
 - 🌱 Expanding my skills in **Zig**, **Rust** & **Flutter**
 - ✍️ Writing technical articles at [blog.salikkhan.com](https://blog.salikkhan.com)
 
-## 🎯 Expertise
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0xSalik&theme=dracula&column=4&margin-w=15&margin-h=15" />
+</div>
 
+## 🎯 Expertise
 ```javascript
 const salik = {
     code: ["JavaScript", "TypeScript", "Python", "C++", "Go", "Rust"],
@@ -44,21 +51,31 @@ const salik = {
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xSalik&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
-## 🛠️ Tech Stack
-<!-- Note: Keep your most relevant/frequently used tools here -->
+## 🛠️ Frequently Used Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <!-- Cloud Platforms -->
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
+  
+  <!-- Frameworks & Runtime -->
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  
+  <!-- Infrastructure -->
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </div>
 
 ## 🤝 Let's Connect
@@ -69,6 +86,10 @@ const salik = {
   <a href="https://blog.salikkhan.com/rss/">
     <img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xSalik&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
 <div align="center">
