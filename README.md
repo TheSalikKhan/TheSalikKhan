@@ -16,10 +16,6 @@ Full Stack Developer | Linux Enthusiast | Open Source Contributor
 - 🌱 Expanding my skills in **Zig**, **Rust** & **Flutter**
 - ✍️ Writing technical articles at [blog.salikkhan.com](https://blog.salikkhan.com)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xSalik&theme=dracula&column=4&margin-w=15&margin-h=15" />
-</div>
-
 ## 🎯 Expertise
 ```javascript
 const salik = {
