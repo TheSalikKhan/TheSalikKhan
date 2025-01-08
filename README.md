@@ -3,7 +3,7 @@
 # Hello World! I'm Salik 👋
 
 [![Website](https://img.shields.io/badge/Website-salikkhan.com-blue?style=for-the-badge&logo=google-chrome)](https://salikkhan.com)
-[![Blog](https://img.shields.io/badge/Blog-blog.salikkhan.com-orange?style=for-the-badge&logo=rss)](https://salikkhan.com/blog)
+[![Blog](https://img.shields.io/badge/Blog-salikkhan.com%2Fblog-orange?style=for-the-badge&logo=rss)](https://salikkhan.com/blog)
 [![Email](https://img.shields.io/badge/Email-contact@salikkhan.com-red?style=for-the-badge&logo=gmail)](mailto:contact@salikkhan.com)
 
 Full Stack Developer | Linux Enthusiast | Open Source Contributor
