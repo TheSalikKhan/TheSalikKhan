@@ -1,6 +1,3 @@
-Here's your enhanced version with modified tech stack and added visual elements:
-
-
 <div align="center">
   
 # Hello World! I'm Salik 👋
