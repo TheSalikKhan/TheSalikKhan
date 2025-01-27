@@ -12,9 +12,7 @@ Computer Science & Engineering Undergrad | Linux Enthusiast
 </div>
 
 ## 🚀 Current Endeavors
-- 🔭 Building **AnonAsk** - A full-stack social media platform for anonymous Q&A
-- 🌱 Expanding my skills in **Zig**, **Rust** & **Flutter**
-- ✍️ Writing technical articles at [salikkhan.com/blog](https://salikkhan.com/blog)
+- 🌱 Expanding my skills in **Embedded Systems**, **Zig** and **Rust**.
 
 ## 🎯 Expertise
 ```javascript
